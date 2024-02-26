@@ -1,0 +1,57 @@
+{
+    "data": [
+        {
+            "d": "2023-12-01",
+            "Occurrences": 2
+        },
+        {
+            "d": "2024-01-22",
+            "Occurrences": 1
+        },
+        {
+            "d": "2023-12-29",
+            "Occurrences": 3
+        }
+    ]
+}
+
+
+        {
+            "d": "2024-02-12",
+            "Occurrences": 3
+        }
+
+        {
+            "d": "2024-02-12",
+            "Occurrences": 3
+        }
+
+kjljkljjkljklljkljkjlkjlkljk
+[
+            {
+            "d": "2024-02-12",
+            "Occurrences": "test"
+        }
+]
+
+[[[[[]]]]]
+{
+    "data": [
+        {
+            "d": "2023-12-01",
+            "Occurrences": 2
+        },
+        {
+            "d": "2024-01-22",
+            "Occurrences": 1
+        },
+        {
+            "d": "2024-01-21",
+            "Occurrences": 1
+        },
+        {
+            "d": "2023-12-29",
+            "Occurrences": 3
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "2-dmt-deploy-parser",
+  "version": "1.0.0",
+  "description": "![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^6.1.5",
+    "moment": "^2.30.1"
+  }
+}
